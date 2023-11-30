@@ -1,6 +1,7 @@
 ## Ice Backdoor
 
-> simple tui backdoor in python
+> Simple tui backdoor in python
+
 
 > Run the server
 
